@@ -1,0 +1,49 @@
+body {
+    margin: 0
+}
+.box1 {
+    height: 100px;
+    background-color: rgb(197, 195, 195);
+    padding-top: 10px;
+
+}
+.square1 {
+    background-color: rgb(55, 140, 219);
+    height: 90px;
+    width: 90px;
+    margin-left: 20px;
+    
+}
+
+.box2 {
+    background-color: rgb(250, 246, 246);
+    height: 390px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#peter {
+    width: 90%;
+}
+.willoughby {
+    height: 120px;
+    background-color: rgb(94, 168, 236);
+    padding-top: 10px;
+
+}
+.nichole{
+    height: 120px;
+    background-color: rgb(94, 243, 211);
+    padding-top: 10px;
+}
+.liberato{
+    height: 120px;
+    background-color: rgb(202, 230, 157);
+    padding-top: 10px;
+}
+.steven {
+    height: 120px;
+    background-color: rgb(247, 255, 131);
+    padding-top: 10px;
+}
